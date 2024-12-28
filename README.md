@@ -1,4 +1,5 @@
-Java program implements a run-length encoding (RLE) algorithm, which compresses strings by summarizing consecutive repeating characters. 
+Java program implements a run-length encoding (RLE) algorithm, which compresses strings 
+by summarizing consecutive repeating characters. 
 Below is a brief breakdown of the code:
 
 Overview
